@@ -1,0 +1,149 @@
+{
+  "car": [
+    {
+      "id": 0,
+      "imgAddress": "320i",
+      "model": "BMW-320i",
+      "price": 100,
+      "mileage": 50123,
+      "seats": 5,
+      "description": "BMW - your dream car",
+      "type": "sedan",
+      "availability": "Yes",
+      "fuel_type": "Petrol"
+    },
+    {
+      "id": 1,
+      "imgAddress": "Camry",
+      "model": "Toyota-Camry",
+      "price": 50,
+      "mileage": 56000,
+      "seats": 5,
+      "description": "Good Toyota daily",
+      "type": "sedan",
+      "availability": "NO",
+      "fuel_type": "Petrol"
+      
+    },
+    {
+      "id": 2,
+      "imgAddress": "Captiva",
+      "model": "Holden-Captiva",
+      "price": 70,
+      "mileage": 82120,
+      "seats": 5,
+      "description": "It's Captiva, that's all",
+      "type": "SUV",
+      "availability": "NO",
+      "fuel_type": "Petrol"
+    },
+    {
+      "id": 3,
+      "imgAddress": "Cherokee",
+      "model": "Jeep-Cherokee",
+      "price": 130,
+      "mileage": 200300,
+      "seats": 5,
+      "description": "Jeep's off-road 4x4",
+      "type": "SUV",
+      "availability": "Yes",
+      "fuel_type": "Petrol"
+    },
+    {
+      "id": 4,
+      "imgAddress": "Civic",
+      "model": "Honda-Civic",
+      "price": 80,
+      "mileage": 30550,
+      "seats": 5,
+      "description": "Honda civic very good car",
+      "type": "sedan",
+      "availability": "Yes",
+      "fuel_type": "Petrol"
+    },
+    {
+      "id": 5,
+      "imgAddress": "GLC",
+      "model": "Mercedes-Benz GLC everyone's dream car",
+      "price": 150,
+      "mileage": 23300,
+      "seats": 5,
+      "type": "SUV",
+      "description": "Mercedes-Benz's SUV",
+      "availability": "Yes",
+      "fuel_type": "Petrol"
+    },
+    {
+      "id": 6,
+      "imgAddress": "Golf",
+      "model": "VW Golf",
+      "price": 100,
+      "mileage": 20003,
+      "seats": 5,
+      "description": "Let's play golf",
+      "type": "Hatch",
+      "availability": "Yes",
+      "fuel_type": "Petrol"
+    },
+    {
+      "id": 7,
+      "imgAddress": "Jimny",
+      "model": "Suzuki Jimny",
+      "price": 300,
+      "mileage": 20220,
+      "seats": 4,
+      "description": "The best financial car",
+      "type": "SUV",
+      "availability": "Yes",
+      "fuel_type": "Petrol"
+    },
+    {
+      "id": 8,
+      "imgAddress": "Sonata",
+      "model": "Hyundai Sonata",
+      "price": 30,
+      "mileage": 12300,
+      "seats": 5,
+      "description": "Most classic car",
+      "type": "sedan",
+      "availability": "Yes",
+      "fuel_type": "Petrol"
+    },
+    {
+      "id": 9,
+      "imgAddress": "X-trail",
+      "model": "Nissan X-trail",
+      "price": 100,
+      "mileage": 20366,
+      "seats": 5,
+      "description": "Family Suv",
+      "type": "SUV",
+      "availability": "Yes",
+      "fuel_type": "Petrol"
+    },
+    {
+      "id": 10,
+      "imgAddress": "wuling",
+      "model": "Wulinghongguang",
+      "price": 100,
+      "mileage": 220390,
+      "seats": "As you can",
+      "description": "Save your money.",
+      "type": "SUV",
+      "availability": "Yes",
+      "fuel_type": "Petrol"
+    },
+    {
+      "id": 11,
+      "imgAddress": "Tesla",
+      "model": "Tesla Model-X",
+      "price": 80,
+      "mileage": 390,
+      "seats": 5,
+      "description": "We can stop.",
+      "type": "sedan",
+      "availability": "Yes",
+      "fuel_type": "Electronic"
+    }
+  ]
+}
